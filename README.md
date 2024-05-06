@@ -42,7 +42,7 @@ Perubahan:
 
 Dapat dilihat dari keempat gambar tersebut bahwa yang berubah hanya port nya saja tanpa mengubah logic dari program karena masih menggunakan konfigurasi yang sama.
 
-### Small changes. Add some information to client
+### 2.3. Small changes. Add some information to client
 
 ini adalah hasilnya :
 ![alt text](image-10.png)
