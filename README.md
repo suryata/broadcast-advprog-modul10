@@ -26,3 +26,18 @@ Observasi pada Setiap Client:
 Client 1: Setelah mengetik "halo halo", client ini akan menerima pesan tersebut kembali dari server, diikuti oleh pesan lain dari client lain ("hola hola" dan "hiii").
 Client 2: Setelah mengetik "hola hola", pesan ini juga diterima kembali dari server, dan pesan selanjutnya adalah "hiii" dari client ketiga.
 Client 3: Hanya mengetik "hiii" dan menerima pesan yang sama kembali dari server.
+
+### 2.2. Modifying the websocket port
+Ini merupakan file yang saya ubah untuk mengganti port:
+client.rs:
+![alt text](image-8.png)
+server.rs:
+![alt text](image-9.png)
+
+Perubahan:
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+
+Dapat dilihat dari keempat gambar tersebut bahwa yang berubah hanya port nya saja tanpa mengubah logic dari program karena masih menggunakan konfigurasi yang sama.
