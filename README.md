@@ -41,3 +41,13 @@ Perubahan:
 ![alt text](image-7.png)
 
 Dapat dilihat dari keempat gambar tersebut bahwa yang berubah hanya port nya saja tanpa mengubah logic dari program karena masih menggunakan konfigurasi yang sama.
+
+### Small changes. Add some information to client
+
+ini adalah hasilnya :
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+
+Saya telah melakukan beberapa modifikasi untuk menyertakan addr, yang merupakan alamat asal pesan tersebut dikirim. Selain itu, saya juga menambahkan detail tentang asal komputer Surya pada pesan.
